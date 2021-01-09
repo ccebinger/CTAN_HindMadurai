@@ -1,0 +1,187 @@
+
+
+############################################################################
+
+
+[2021-01-09 12:20:54]  /usr/local/texlive/2020/bin/x86_64-linux/autoinst, version 20201218
+
+Command was:
+
+    "/usr/local/texlive/2020/bin/x86_64-linux/autoinst -target=texmf -vendor=public -typeface=HindMadurai -encoding=OT1,T1,TS1,LY1 HindMadurai-Bold.otf HindMadurai-Light.otf HindMadurai-Medium.otf HindMadurai-Regular.otf HindMadurai-SemiBold.otf"
+
+----------------------------------------------------------------------------
+
+I'm using the following options:
+
+    encoding(s):        OT1, T1, LY1
+    NFSS:               rm (serif)
+
+    lining:             yes
+    oldstyle:           yes
+    proportional:       yes
+    tabular:            yes
+    ts1:                yes
+    smallcaps:          yes
+    swash:              yes
+    titling:            yes
+    superiors:          yes
+    inferiors:          none
+    ornaments:          yes
+    fractions:          no
+    ligatures:          yes
+
+    target:             texmf
+    extra:              
+
+    figurekern:         keep
+
+    nfssweight:         
+    nfsswidth:          
+
+    math:               no
+    mathspacing:        0
+
+    fontname suffix:    (none)
+
+----------------------------------------------------------------------------
+
+Results of font info parsing:
+
+    HindMadurai-Bold.otf
+        Name:       HindMadurai-Bold
+        Family:     HindMadurai
+        Subfamily:  
+        Weight:     bold (700)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   abvm, akhn, dlig, hlig, psts, salt, ss01
+
+    HindMadurai-Light.otf
+        Name:       HindMadurai-Light
+        Family:     HindMadurai
+        Subfamily:  
+        Weight:     light (300)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   abvm, akhn, dlig, hlig, psts, salt, ss01
+
+    HindMadurai-Medium.otf
+        Name:       HindMadurai-Medium
+        Family:     HindMadurai
+        Subfamily:  
+        Weight:     medium (500)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   abvm, akhn, dlig, hlig, psts, salt, ss01
+
+    HindMadurai-Regular.otf
+        Name:       HindMadurai-Regular
+        Family:     HindMadurai
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   abvm, akhn, dlig, hlig, psts, salt, ss01
+
+    HindMadurai-SemiBold.otf
+        Name:       HindMadurai-SemiBold
+        Family:     HindMadurai
+        Subfamily:  
+        Weight:     semibold (600)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   abvm, akhn, dlig, hlig, psts, salt, ss01
+
+----------------------------------------------------------------------------
+
+NFSS mappings:
+
+    ul  =>  
+    el  =>  
+    l   =>  light
+    sl  =>  
+    m   =>  regular
+    sb  =>  semibold
+    b   =>  bold
+    eb  =>  
+    ub  =>  
+
+    uc  =>  
+    ec  =>  
+    c   =>  
+    sc  =>  
+    m   =>  regular
+    sx  =>  
+    x   =>  
+    ex  =>  
+    ux  =>  
+
+    ------------------------------------------------------------------------
+
+    HindMadurai-Bold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     TLF     n       
+            OT1     TLF     n       
+            T1      TLF     n       
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    HindMadurai-Light.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     TLF     n       
+            OT1     TLF     n       
+            T1      TLF     n       
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    HindMadurai-Medium.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     TLF     n       
+            OT1     TLF     n       
+            T1      TLF     n       
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    HindMadurai-Regular.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     TLF     n       
+            OT1     TLF     n       
+            T1      TLF     n       
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    HindMadurai-SemiBold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     TLF     n       
+            OT1     TLF     n       
+            T1      TLF     n       
+            TS1     TLF     n       
